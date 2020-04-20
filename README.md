@@ -2,8 +2,8 @@
 
 App to build bus line, based on react-google-map library using React, Redux.
 
-![Img1](https://github.com/JakubHaj/Test/blob/master/ReadmeImg/Map1.PNG)
-![Img2](https://github.com/JakubHaj/Test/blob/master/ReadmeImg/Map2.PNG)
+![Img1](https://github.com/JakubHaj/BusLineReactApp/blob/master/ReadmeImg/Map1.PNG)
+![Img2](https://github.com/JakubHaj/BusLineReactApp/blob/master/ReadmeImg/Map2.PNG)
 
 ## Install
 
