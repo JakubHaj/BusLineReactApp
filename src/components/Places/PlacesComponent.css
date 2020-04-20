@@ -1,0 +1,51 @@
+.InputDiv {
+    display: block;
+    margin: 3px;
+}
+
+.Input {
+    border: none;
+    width: 80%;
+    font-size: 130%;
+    padding-left: 15px;
+    padding-top: 15px;
+    outline: none;
+}
+
+.Dropdown {
+    position: relative;
+    display: block;
+    width: inherit;
+}
+
+.DropdownItem {
+    padding: 5px;
+    font-size: 90%;
+    display: block;
+    width: inherit;
+    border: 1px solid #CFCFCF
+}
+
+.DropdownItem img {
+    display: block;
+    text-align: center;
+    float: left;
+    height: 15px;
+    font-size: 80%;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-right: 10px;
+}
+
+.Dropdown span {
+    display: block;
+}
+
+.MagnifierIcon {    
+    height: 23px;
+    width: auto;
+    display: inline;
+    float: right;
+    padding-top: 15px;
+    padding-right: 15px;
+}

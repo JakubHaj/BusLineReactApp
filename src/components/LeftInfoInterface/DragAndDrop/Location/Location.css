@@ -1,0 +1,38 @@
+.TextContainer {
+    display: table;
+    height: 40px;
+    padding-left: 15px;
+    width: 80%;
+    float: left;
+}
+
+.Location {
+    height: inherit;
+    width: 80%;
+    overflow: hidden;
+    display: inline;
+}
+
+.TextContainer1 {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.TextContainer1 div {
+    overflow: hidden;
+    font-size: 89%;
+    height: 70%;
+}
+
+/*
+.Location img {
+.removeBtn {
+    float: right;
+    margin: 10px 10px 0 0;
+    cursor: pointer;
+    background: none;
+    border: none;
+}
+}
+*/
+

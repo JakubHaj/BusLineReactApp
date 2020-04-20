@@ -1,0 +1,53 @@
+.LeftInfoPanel {
+    margin-left: 5%;
+    width: 90%;
+    height: auto;
+    max-height: 80%;
+    min-height: 350px;
+    background: #FFFFFF;
+    border: 1px solid #7CBF69;
+    border-radius: 15px;
+    opacity: 1;
+}
+
+.LineInfo {
+    height: 15%;
+    width: 80%;
+    margin: 0 10% 8% 10%;
+    border-bottom: solid 2px #5A5A5A;
+}
+
+.LineInfo span {
+    padding-top: 8%;
+    font-size: 240%;
+    width: calc(100% - 71px);
+    display: inline-block;
+}
+
+.navBtns {
+    padding-top: 9%;
+    width: auto;
+    min-width: 71px;
+    display: inline-block;
+}
+
+.navBtns img {
+    width: auto;
+    height: auto;
+}
+
+.actionBtns {
+    height: 40px;
+}
+
+.actionBtns button {
+    float: right;
+    width: 120px;
+    height: 30px;
+    border-radius: 20px;
+    margin: 0px 10px 10px 0px;
+    background-color: #12D974;
+    list-style-type: none;
+    cursor: pointer;
+    border: none;
+}

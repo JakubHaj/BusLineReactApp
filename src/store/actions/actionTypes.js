@@ -1,0 +1,8 @@
+export const ADD_LOCATION = 'ADD_LOCATION';
+export const SET_MARKER_LOCATION = 'SET_LOCATION_MARKER';
+export const REMOVE_LOCATION = 'REMOVE_LOCATION';
+export const SWITCH_LOCATION = 'SWITCH_LOCATION';
+
+export const ADD_LINE_INFO = 'ADD_LINE_INFO';
+
+export const SAVE_LINE = 'SAVE_LINE';

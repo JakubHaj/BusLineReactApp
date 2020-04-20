@@ -1,0 +1,10 @@
+.Interface {
+    float: left;
+    width: 30%;
+    height: 98vh;
+    min-height: 525px;
+    top: 0px;
+    left: 0px;
+    background: #F2F2F2 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
