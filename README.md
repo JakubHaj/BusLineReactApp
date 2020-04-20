@@ -18,7 +18,7 @@ Add valid Google API Key to public/index.html file
 ```
 
 Run application
-
+ 
 ```bash
 npm start
 ```
